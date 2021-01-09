@@ -40,11 +40,11 @@ public class Product implements Serializable{
 		this.id = id;
 	}
 
-	public String getNameString() {
+	public String getName() {
 		return name;
 	}
 
-	public void setNameString(String name) {
+	public void setName(String name) {
 		this.name = name;
 	}
 
